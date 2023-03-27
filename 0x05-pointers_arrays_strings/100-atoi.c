@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * _antoi - Converts a srting to an integer
+ * _atoi - Converts a srting to an integer
  * @s: The string to be converted
  * Return: An integer
  */
 
-int _antoi(char *s)
+int _atoi(char *s)
 
 {
 
