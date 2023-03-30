@@ -9,6 +9,7 @@
  * If str1 == str2, 0
  * If str1 > str2, the positive difference
  * of the first unmatched characters
+ *
  */
 
 int _strcmp(char *s1, char *s2)
