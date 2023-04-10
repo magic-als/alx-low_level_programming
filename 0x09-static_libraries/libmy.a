@@ -1,3 +1,6 @@
 !<arch>
 _putchar.c/     0           0     0     644     22        `
 int _putchar(char c);
+_islower.c/     0           0     0     644     21        `
+int _islower(int c);
+
