@@ -1,0 +1,3 @@
+!<arch>
+_putchar.c/     0           0     0     644     22        `
+int _putchar(char c);
