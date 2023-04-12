@@ -4,7 +4,7 @@
 
 int word_len(char *str);
 int count_words(char *str);
-int **strtow(char *str);
+char **strtow(char *str);
 
 /**
  * word_len - Locates the index marking the end of the
