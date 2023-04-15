@@ -6,7 +6,7 @@
  * string_nconcat - Concatenates two strings.
  * @s1: First string to concatenate
  * @s2: Second string to concatenate
- * @n: ....
+ * @n: The number
  * Return: A pointer to a newly allocated space in memory containing s1
  * followed by the first n bytes of s2, or NULL if otherwise.
  */
@@ -44,9 +44,9 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 	if (j >= i)
 	{
 	str[j] = s2[k];
-	k++
+	k++;
 	}
-	j++
+	j++;
 	}
 	str[j] = '\0';
 	return (str);
